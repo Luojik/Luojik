@@ -2,13 +2,8 @@
 
 ###
 
-<div align="center">
-  🔭 I’m currently working on Vegito's Mess<br>🌱 I’m currently learning Unity/C#<br>
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🔭 I’m currently working on Vegito's Mess
+- 🌱 I’m currently learning Unity/C#
 
 ###
 
